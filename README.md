@@ -1,5 +1,5 @@
 # Copyright 
-MaDwin &amp; Zedro &amp; R J
+MaDwin#8307 &amp; Zedro#2742 &amp; R J#7777
 
 # credits
 This bot was made by Zedro#2742
